@@ -1,6 +1,6 @@
 {
   "name": "sunnyside-agency",
-  "description": "Código base de la interfaz Sunnyside agency landing page Hecha en React.js y Tailwind CSS.",
+  "description": "Código base de la interfaz Sunnyside agency Hecha en React.js y Tailwind CSS.",
   "private": true,
   "version": "1.0.0",
   "type": "module",
@@ -11,8 +11,7 @@
   },
   "keywords": [
     "react",
-    "tailwind",
-    "frontend-mentor"
+    "tailwind"
   ],
   "author": "Axe10rellana",
   "license": "MIT",
